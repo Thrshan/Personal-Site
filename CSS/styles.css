@@ -1,0 +1,144 @@
+.intro {
+	background-color: #eeecda;
+}
+
+body {
+	font-family: Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif;
+	margin: 0;
+	text-align: center;
+
+
+}
+
+h1 {
+	color: #6a2c70;
+	font-family: 'Dancing Script', cursive;
+	font-size: 5.625rem;
+	margin: 40px auto 0 auto;
+	
+}
+
+h2 {
+	color: #6a2c70;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 2.5rem;
+	font-weight: normal;
+	line-height: 2;
+}
+
+h3 {
+	color: #11999E;
+}
+
+a {
+	color: #11999E;
+	text-decoration: none;
+}
+
+
+.intro {
+	padding-top: 100px;
+	position: relative;
+
+
+}
+
+.top-cloud {
+	position: absolute;
+	right: 25%;
+	top: 50px;
+
+}
+
+.bottom-cloud {
+	bottom: 300px;
+	left: 450px;
+	position: absolute;
+}
+
+.about-me{
+	width: 35%;
+	margin: auto;
+	color: #40514E;
+	
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+.skill1{
+	float: left;
+	width: 25%;
+	margin-right: 30px;
+}
+.skill2{
+	float: right;
+	width: 25%;
+	margin-left: 30px;
+}
+
+hr{
+	width:5%;
+	border-style: dotted none none none;
+	border-width: 5px;
+	margin-top: 50px;
+	border-color: #B0B0B0;
+}
+
+.profile{
+	margin: 30px;
+}
+
+.contact-me{
+	width: 50%;
+	margin: 20px auto;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F7F7F7;
+   font-family: Verdana;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #F08A5D;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #B83B5E;
+   border: solid #6A2C70 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container{
+	background-color: #66BFBF;
+	color: 	#EAF6F6;
+	padding: 30px;
+}
+
+.footer-link{
+	color: #11999E;
+	margin: 10px;
+}
+/*
+#eeecda
+#f08a5d
+#b83b5e
+#6a2c70
+font-family: 'Lobster', cursive;
+*/
+/* put more to know for every chapter and attach the refernece in onenote*/
