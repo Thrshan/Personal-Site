@@ -35,12 +35,14 @@ a {
 	text-decoration: none;
 }
 
+p{
+	line-height: 2;
+}
+
 
 .intro {
 	padding-top: 100px;
 	position: relative;
-
-
 }
 
 .top-cloud {
@@ -51,8 +53,8 @@ a {
 }
 
 .bottom-cloud {
-	bottom: 300px;
-	left: 450px;
+	top: 400px;
+	left: 23.4%;
 	position: absolute;
 }
 
@@ -133,6 +135,11 @@ hr{
 .footer-link{
 	color: #11999E;
 	margin: 10px;
+}
+
+.mountain-img{
+	width: 40%;
+	margin: auto;
 }
 /*
 #eeecda
